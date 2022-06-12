@@ -1,0 +1,31 @@
+* {
+  font-style: italic;
+  color: rgb(98, 98, 98);
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 20px;  
+}
+header {
+  background: -webkit-linear-gradient(#98fb03, #78b537, #a8de6e);
+  border-bottom: 1px solid white;
+}
+.bg-comment {
+  background: transparent;
+  height: auto;
+  margin-top: 100px;
+  padding-top: 20px;
+  border-top-left-radius: 5%;
+  border-bottom-right-radius: 5%;
+  box-shadow: 20%;
+  border: dotted 2px rgb(98, 98, 98);
+  font-weight: 700;
+}
+.labels {
+    color:rgb(64, 63, 63) ;
+  font-weight: 600;
+}
+body {
+  background-image: url(../assets/img/abstract.jpg);
+  background-size: cover;
+  height: 100vh;
+}
